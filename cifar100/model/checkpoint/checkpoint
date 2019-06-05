@@ -1,5 +1,6 @@
-model_checkpoint_path: "C:\\cifar100\\checkpoint\\model.ckpt-30000"
-all_model_checkpoint_paths: "C:\\cifar100\\checkpoint\\model.ckpt-0"
+model_checkpoint_path: "C:\\cifar100\\checkpoint\\model.ckpt-50000"
 all_model_checkpoint_paths: "C:\\cifar100\\checkpoint\\model.ckpt-10000"
 all_model_checkpoint_paths: "C:\\cifar100\\checkpoint\\model.ckpt-20000"
 all_model_checkpoint_paths: "C:\\cifar100\\checkpoint\\model.ckpt-30000"
+all_model_checkpoint_paths: "C:\\cifar100\\checkpoint\\model.ckpt-40000"
+all_model_checkpoint_paths: "C:\\cifar100\\checkpoint\\model.ckpt-50000"
